@@ -1,14 +1,18 @@
 # Diary of a Georgia Voter: Diary Map Using Mapbox & Scrollytelling
 
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*oFCI_1lrLxkMeB75sPaIFg.png" alt="Alt Text" width="800">
-
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*oFCI_1lrLxkMeB75sPaIFg.png" width="800"/>
+</p>
 
 ## Background
 When I tell people I waited four hours to vote, it immediately sounds like a hyperbole. To describe the experience, I wanted to create a geospatial representation of what it actually feels like to move at just .05 mph for 4 hours. As a designer and a visual storyteller, I immediately whipped up this static map of my experience, in the hopes that it might make be a good resource for organizations like Fair Fight, who collected my story as part of their initiative to account for and document instances of voter suppression.
 
 Next, I took Mapbox’s Election Mapping Challenge as my invitation to make my static map into something interactive and to level up my rookie engineer skills. I also thought it would be interesting to interpret a singular, personal story on a map.
 
-![The initial static map I designed that inspired this project](https://miro.medium.com/v2/resize:fit:1600/format:webp/1*CNN_w6x4gMFrKqiw6TG_zw.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1600/format:webp/1*CNN_w6x4gMFrKqiw6TG_zw.png" alt="diagram" />
+  <figcaption> The initial static map I designed that inspired this project.</figcaption>
+</p>
 
 ## The Making Of
 This is the first map I ever made, so it was a tremendous learning experience. When I first started on this endeavor, I did not even know how to find longitude and latitude for a specific location! Feeling ambitious, I toyed with the idea of an AR game where you arrowed through the four-hour wait with me (maybe in real time, if I wanted it to be tortuous.) After realizing I was way out of my depths, I returned to the drawing board. Fortunately, I had my static map to work from, and I used that as my MVP.
