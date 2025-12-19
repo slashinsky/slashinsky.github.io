@@ -1,6 +1,6 @@
 # Diary of a Georgia Voter: Diary Map Using Mapbox & Scrollytelling
 
-![A screenshot of the final product](https://miro.medium.com/v2/resize:fit:1600/format:webp/1*oFCI_1lrLxkMeB75sPaIFg.png)
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*oFCI_1lrLxkMeB75sPaIFg.png" alt="Alt Text" width="800">
 
 
 ## Background
